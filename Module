@@ -1,0 +1,10 @@
+local player = game.Players.LocalPlayer.Humanoid("Humanoid")
+local Unban = Setpostion.Cuffs [4444,444,444]
+local Position = game.Players.LocalPlayer.Position:Connect("UnbanService")
+
+Unban.Player = true
+local Configureation = {
+  Color
+  Cuffs
+  position
+}
